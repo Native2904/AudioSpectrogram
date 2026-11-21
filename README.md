@@ -4,6 +4,10 @@
 
 The plugin **measures and displays. It does not rate.** Files are only read, never changed.
 
+
+<img width="1920" height="988" alt="decaud-goldberg-aria-dsd64" src="https://github.com/user-attachments/assets/2a2769b9-d81a-4901-837d-3698188eb9a9" />
+
+
 ---
 
 ## Contents
